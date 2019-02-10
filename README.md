@@ -1,2 +1,2 @@
 # Connect-Four
-Final Project for CSS 142
+Personal Project - developing my own connect four game
