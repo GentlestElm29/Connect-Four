@@ -1,6 +1,7 @@
 import java.util.Scanner;
 /**
  * This is the main method and is what runs the whole program. 
+ * Testing the Connect Four Board
  * Using this class will essentially be able to compile the game board,
  * game pieces and instructions inputted by the user.
  * @author John Xie
