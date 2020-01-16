@@ -1,13 +1,12 @@
 import java.util.Scanner;
 /**
- * Write a description of class XieJohn_HW_Final_Prog here.
  * This is the main method and is what runs the whole program. 
  * Using this class will essentially be able to compile the game board,
  * game pieces and instructions inputted by the user.
  * @author John Xie
  * @version 12/5/2017
  */
-public class XieJohn_HW_Final_Prog
+public class XieJohn_ConnectFour
 {
     /**
      * The main method
